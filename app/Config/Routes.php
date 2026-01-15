@@ -24,6 +24,7 @@ $routes->group('', ['filter' => 'auth'], function($routes) {
     $routes->post('users/update/(:num)', 'User::update/$1');
     $routes->get('users/delete/(:num)', 'User::delete/$1');
 });
+<<<<<<< HEAD
 
 
 
@@ -50,3 +51,5 @@ $routes->group('api', ['namespace' => 'App\Controllers\Api'], function($routes) 
     
 });
 
+=======
+>>>>>>> 95580eaf0a47ab4a9d4d01ae34bb382a65b00bff

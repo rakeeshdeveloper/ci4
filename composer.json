@@ -11,8 +11,12 @@
     },
     "require": {
         "php": "^8.1",
+<<<<<<< HEAD
         "codeigniter4/framework": "^4.0",
         "firebase/php-jwt": "^7.0"
+=======
+        "codeigniter4/framework": "^4.0"
+>>>>>>> 95580eaf0a47ab4a9d4d01ae34bb382a65b00bff
     },
     "require-dev": {
         "fakerphp/faker": "^1.9",

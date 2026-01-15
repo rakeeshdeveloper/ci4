@@ -4,7 +4,11 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
+<<<<<<< HEAD
     "content-hash": "2cfb130d60a8e766fc38420a63a26664",
+=======
+    "content-hash": "657ac079313fab046eb8c29fe1d6992b",
+>>>>>>> 95580eaf0a47ab4a9d4d01ae34bb382a65b00bff
     "packages": [
         {
             "name": "codeigniter4/framework",
@@ -81,6 +85,7 @@
             "time": "2025-12-12T10:37:42+00:00"
         },
         {
+<<<<<<< HEAD
             "name": "firebase/php-jwt",
             "version": "v7.0.2",
             "source": {
@@ -144,6 +149,8 @@
             "time": "2025-12-16T22:17:28+00:00"
         },
         {
+=======
+>>>>>>> 95580eaf0a47ab4a9d4d01ae34bb382a65b00bff
             "name": "laminas/laminas-escaper",
             "version": "2.18.0",
             "source": {
@@ -2170,5 +2177,9 @@
         "php": "^8.1"
     },
     "platform-dev": {},
+<<<<<<< HEAD
     "plugin-api-version": "2.9.0"
+=======
+    "plugin-api-version": "2.6.0"
+>>>>>>> 95580eaf0a47ab4a9d4d01ae34bb382a65b00bff
 }
